@@ -39,7 +39,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Articles & Posts
   1. [3 mistakes to avoid if you want to get hired remotely](https://x-team.com/blog/mistakes-remote-developers)
-  1. [5 Little-Known Hacks for Finding Remote Work](https://hubstaff.com/blog/hacks-find-remote-jobs/)
   1. [5 Things I've Learned From Working Remotely](https://www.donedone.com/blog/five-things-ive-learned-working-remotely)
   1. [5 Tricks to Get More Done While Working Remotely](https://rdutel.medium.com/working-remotely-getting-things-done-38dcd0413733)
   1. [8 tips that will make you a more active, healthier remote developer](https://x-team.com/blog/how-to-be-healthy-remote)
@@ -143,6 +142,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Diversify Tech](https://www.diversifytech.com/job-board) - Companies are transparent about their Diversity & Inclusion efforts 
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
+  1. [Findjobit](https://findjobit.com/jobs) - Remote jobs for LATAM IT professionals.
   1. [freelancermap](https://www.freelancermap.com/projects/remote.html) - Freelance & contract jobs for IT experts (mostly German projects)
   1. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
   1. [Guru](https://www.guru.com/) - (has MANY different categories outside software)
@@ -167,17 +167,14 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [thatmlopsguy/remote-pt](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
   1. [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotees](https://weworkremotely.com/?utm_source=Remotees&utm_medium=Redirect&utm_campaign=Remotees)
-  1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
   1. [Remotive Jobs](https://remotive.com/)
-  1. [Remote People](https://remotepeople.io/)
   1. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
   1. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
   1. [Skip the Drive](https://www.skipthedrive.com/)
   1. [Slasify](https://slasify.com/en) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
   1. [Stream Native Jobs](https://streamnative.io/careers) - Scroll down to `Join Us`
   1. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
-  1. [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/) - Remote jobs for UI, UX & UXR Designers
   1. [Upwork](https://www.upwork.com) - Find remote jobs in any category
   1. [Virtual Vocations](https://www.virtualvocations.com/)
   1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
@@ -190,6 +187,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1.  [Dataaxy](https://dataaxy.com) Job board and reverse job board specialized in Data and AI in North America
   1.  [Freel](https://freel.ca) Freelancers job board in Canada
   1.  [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
+  1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Remote jobs for UI/UX designers
 ## Job boards aggregators
   1. [Career Vault](https://careervault.io/) - Hundreds of remote jobs added each day from thousands of company career pages. Free and no signup required.
   1. [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
@@ -198,10 +196,10 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote.io](https://www.remote.io/) - Job board and aggregator for remote jobs, primarily tech.
   1. [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
   1. [Remote Index](https://remoteindex.co/) - Job board and aggregator for remote jobs in tech.
-  1. [Remote Leaf](https://remoteleaf.com) - Hand-picked remote jobs from 40+ remote job boards, 1500+ company career pages, Twitter feed, Linkedin, Reddit, Hacker News Hiring and only sends the ones that apply to you.
   1. [Remote OK](https://remoteok.com/) - Scrapes many job board feeds for remote positions.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
   1. [SlashJobs](https://slashjobs.com/) - Remote dev jobs aggregator. `and`/`or`/`not` filters, location search, fast, no sign-up/login.
+  1. [tokenjobs.io](https://tokenjobs.io?remote=true) A web3 job aggregator where jobs can be filtered based on keywords, locations, languages and contract types. Anyone can publish a job offer.
   1. [UN Talent](https://untalent.org/jobs/home-based) - Vacancies at the United Nations and its agencies.
   1. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
@@ -242,7 +240,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
   1. [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
   1. [Meetapro](https://www.meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
-
+  1. [Easyclimbtech](https://www.easyclimb.tech/) - $99 mock interviews with a FAANG mentor, also free P2P mock interviews
 ## Events
   1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
   1. [Project Getaway](https://www.projectgetaway.com/) - 30 days retreat
@@ -312,7 +310,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Ciao Bambino](https://ciaobambino.com/) - Family destinations and hotel reviews.
   1. [Circonus](https://www.apica.io) - SaaS and on-prem monitoring, analytics, alerting, and more.  C, Go, Java, Perl.  HQ in Fulton MD, most employees are remote.
   1. [Clevertech](https://lumenalta.com/remote-jobs) - We build incredible, game-changing technology.
-  1. [Close](https://jobs.lever.co/close.io/) - Inside sales CRM for startups and SMBs.
   1. [Codeship](https://www.cloudbees.com/products/codeship) - SaaS Continuous Delivery
   1. [CodeWeavers](https://www.codeweavers.com/about/jobs) - Wine-based open source software.
   1. [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.
@@ -369,7 +366,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, JavaScript, Golang, Python.
   1. [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
   1. [Hotjar](https://www.hotjar.com/careers/) - Analytics & Feedback tool.
-  1. [Hubstaff](https://hubstaff.com/jobs) - Time tracking solution with multiple integrations.
   1. [Igalia](https://www.igalia.com/about/) - Open source consultancy. HQ in Spain.
   1. [Incsub](https://incsub.com/careers/) - Remote team that builds WordPress projects.
   1. [Inpsyde GmbH](https://syde.com/) - WordPress Agency in Germany.
@@ -503,7 +499,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Q&A
   1. Quora: [Telecommuting and Working Remotely](https://www.quora.com/topic/Telecommuting-and-Working-Remotely) / [Virtual Workplace](https://www.quora.com/topic/Virtual-Workplace) / [Working at Home](https://www.quora.com/topic/Working-at-Home)
-  1. Remote.co: [Q&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
   1. StackExchange
     - Workplace: [telecommute](https://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
     - Freelancing: [remote](https://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](https://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
@@ -512,7 +507,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/?rdt=54904) - Subreddit.
   1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel 
   1. [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
-  1. [Remote Year](https://www.remoteyear.com/) - Traveling techies for 1 year.
   1. [Remote Indian](https://remoteindian.com/) - Remote workers from India.
   1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
   1. [Invide](https://www.invidelabs.com/developer.html) - Invite-only community of experienced remote developers since 2016. Also has a [public discord community](https://discord.com/invite/92q23kCad2) for newbies.
@@ -582,7 +576,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Others
   1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
   1. [Established Remote](https://github.com/yanirs/established-remote) - A list of established remote companies
-  1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
   1. [Nomad List](https://nomads.com/) - Compare cost and quality of living in different cities.
   1. [Regus USA](https://www.regus.com/en-gb) - Executive suites, virtual offices & conference room space.
