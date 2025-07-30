@@ -452,7 +452,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Shogun](https://getshogun.com/) - Build and optimize eCommerce landing pages. Ruby / Rails, Go, JavaScript, React. 100% remote.
   1. [Signal](https://signal.org/workworkwork/) - These people make the fantastic Signal app. US Only.
   1. [Skyscrapers](https://skyscrapers.eu/join-us/) - Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.
-  1. [Sodexo](https://www.sodexo.com/) - And a [US website](https://us.sodexo.com/employee-portal), I just learned of this website on the Flex Perspectives podcast (or Work 20XX podcast)
+  1. [Sodexo](https://www.sodexo.com/) - And a [US website](https://us.sodexo.com/employee-portal), I just learned of this website on the Work 20XX podcast first, then the Flex Perspectives podcast
   1. [SoftwareMill](https://softwaremill.com/join-us/)
   1. [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
   1. [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
